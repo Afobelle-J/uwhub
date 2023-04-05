@@ -1,0 +1,17 @@
+VirtualBox GUI VM Selector Window 5.2.4 r119785 win.amd64 (Dec 18 2017 15:47:18) release log
+00:00:07.786914 Log opened 2022-03-02T08:26:30.682216200Z
+00:00:07.786914 Build Type: release
+00:00:07.786914 OS Product: Windows 10
+00:00:07.786914 OS Release: 10.0.18363
+00:00:07.786914 OS Service Pack: 
+00:00:07.911952 DMI Product Name: HP Laptop 15-bw0xx
+00:00:07.927561 DMI Product Version: Type1ProductConfigId
+00:00:07.927561 Host RAM: 3981MB (3.8GB) total, 432MB available
+00:00:07.927561 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:07.927561 Process ID: 7896
+00:00:07.927561 Package type: WINDOWS_64BITS_GENERIC
+00:00:07.927561 Qt version: 5.6.2
+00:00:08.898838 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:11.148985 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:11.524010 refreshCertificates/#1: RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0  RTCRX509TBSCERTIFICATE::Validity: NotBefore is after NotAfter  RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0  RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0  RTCRX509TBSCERTIFICATE::Validity: NotBefore is after NotAfter  RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0  RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0
+00:00:11.524010 refreshCertificates/#3: Found 1/63 SSL certs we/you trust (previously 1/58).

@@ -1,0 +1,33 @@
+{
+	"name": "pandaslilhelper",
+	"displayName": "Pandas lil Helper",
+	"description": "Helpful tools to make Python's Pandas a lil bit easier.",
+	"version": "1.2.2",
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "python",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/datagy/pandas-lil-helper"
+	},
+	"homepage": "https://github.com/datagy/pandas-lil-helper/blob/master/README.md",
+	"publisher": "datagy",
+	"icon": "images/pandaslilhelper.png",
+	"__metadata": {
+		"id": "75abfb91-df70-45d5-9325-242aa9e70a68",
+		"publisherId": "158af5e7-ab2f-44e1-a07f-f5fc9cf09bb2",
+		"publisherDisplayName": "datagy",
+		"installedTimestamp": 1652268081058
+	}
+}
